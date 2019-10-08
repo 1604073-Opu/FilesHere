@@ -4,7 +4,8 @@ This project is made for -
 Course No.: CSE-326
 Course Name: Internet Programming(Sessional)
 Depertment of CSE,
-Chittagong University on Engineering & Technology 
+Chittagong University on Engineering & Technology.
+
 Features:
 The website is created with PHP scripts and MySql database.
 
